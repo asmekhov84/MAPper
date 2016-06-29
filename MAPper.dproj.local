@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.dfm"/>
+    <File Path="ViewForm.pas"/>
+    <File Path="PlotConfig.pas"/>
+    <File Path="PlotSetupDlg.pas"/>
+    <File Path="PlotSetupDlg.dfm"/>
+    <File Path="PlotFilesDlg.pas"/>
+    <File Path="PlotFilesDlg.dfm"/>
+    <File Path="GraphsFilesDlg.pas"/>
+    <File Path="GraphsFilesDlg.dfm"/>
+    <File Path="WorkspaceDlg.pas"/>
+    <File Path="CharactersDlg.pas"/>
+    <File Path="CharactersDlg.dfm"/>
+    <File Path="AboutDlg.pas"/>
+    <File Path="AboutDlg.dfm"/>
+    <File Path="Utilities.pas"/>
+    <File Path="Axises.pas"/>
+    <File Path="GraphGroups.pas"/>
+    <File Path="GraphSeries.pas"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.857,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\CharactersDlg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GlobalConst.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=D:\Построение многоосных графиков\mapper\ABOUT.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.dfm=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\CharactersDlg.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,D:\Построение многоосных графиков\mapper\AboutDlg.pas=D:\Построение многоосных графиков\mapper\ABOUT.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\CharInsertDlg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\List.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.383,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\List.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,D:\Работа\Построение многоосных графиков\mapper\GraphsSetupDlg.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Graphs.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphGroups.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphsSettingsDlg.dfm=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphsSetupDlg.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Axises.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphsSettingsDlg.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphsSetupDlg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphsImportDlg.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,D:\Работа\Построение многоосных графиков\mapper\GraphSeries.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\GraphSeries.pas=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\Graphs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\icon.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,D:\Документы\Работа\НТЦ КАМАЗа\Построение многоосных графиков\MAPper\mapper\icon.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,D:\Построение многоосных графиков\mapper\AboutDlg.dfm=D:\Построение многоосных графиков\mapper\ABOUT.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
